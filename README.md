@@ -1,0 +1,2 @@
+# LSTMstockTrendPredictor
+LSTM model
